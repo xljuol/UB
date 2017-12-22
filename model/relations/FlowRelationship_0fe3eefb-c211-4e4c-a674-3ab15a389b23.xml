@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Token"
+    id="0fe3eefb-c211-4e4c-a674-3ab15a389b23">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_8bef53dc-021f-46c8-8199-d2696daf24d0.xml#8bef53dc-021f-46c8-8199-d2696daf24d0"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_510af0ab-c9b9-44e5-bf67-3d0d8c73224d.xml#510af0ab-c9b9-44e5-bf67-3d0d8c73224d"/>
+</archimate:FlowRelationship>
